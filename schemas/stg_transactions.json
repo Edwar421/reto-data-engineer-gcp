@@ -1,0 +1,22 @@
+[
+  { "name": "id_transaccion", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "fecha_transaccion", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "monto", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "tipo_transaccion", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "canal", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "id_cliente", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "nombre_cliente", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "tipo_documento", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "numero_documento", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "ciudad", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "departamento", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "correo_cliente", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "id_producto", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "nombre_producto", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "tipo_producto", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "categoria_producto", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "id_riesgo", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "nivel_riesgo", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "score_riesgo", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "descripcion_riesgo", "type": "STRING", "mode": "NULLABLE" }
+]

@@ -1,0 +1,2 @@
+bucket = "dwh-bdb-tf-state"
+prefix = "dwh/dev"

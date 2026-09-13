@@ -1,0 +1,7 @@
+project_id         = "dwh-bdb"
+region             = "us-central1"
+bq_location        = "US"
+dataset_id         = "bdb_dwh"
+environment        = "dev"
+github_repository  = "Edwar421/reto-data-engineer-gcp"
+github_branch      = "main"
